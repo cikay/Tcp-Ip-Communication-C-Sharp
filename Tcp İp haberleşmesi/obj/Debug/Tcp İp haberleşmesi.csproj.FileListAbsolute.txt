@@ -1,0 +1,17 @@
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\bin\Debug\Tcp İp haberleşmesi.exe.config
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\bin\Debug\Tcp İp haberleşmesi.exe
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\bin\Debug\Tcp İp haberleşmesi.pdb
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp_İp_haberleşmesi.Properties.Resources.resources
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp İp haberleşmesi.csproj.GenerateResource.cache
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp İp haberleşmesi.csproj.CoreCompileInputs.cache
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp İp haberleşmesi.exe
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp İp haberleşmesi.pdb
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\bin\Debug\SimpleTCP.dll
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp İp haberleşmesi.csproj.CopyComplete
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp İp haberleşmesi.csprojAssemblyReference.cache
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp_İp_haberleşmesi.ButonEkleForm.resources
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp_İp_haberleşmesi.ButonSilForm.resources
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp_İp_haberleşmesi.HaberlesmeForm.resources
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp İp haberleşmesi.csproj.ResolveComReference.cache
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp_İp_haberleşmesi.IpAdresiForm.resources
+C:\Users\Muzaffercky\Desktop\Tcp İp haberleşmesi\Tcp İp haberleşmesi\obj\Debug\Tcp_İp_haberleşmesi.OnOffButton.resources
